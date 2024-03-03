@@ -1,0 +1,24 @@
+{
+    "slides": [
+       {
+        "src": "src/photos/img1.jpg",
+        "alt": "Image1 pasta"
+       }, 
+       {
+        "src": "src/photos/img2.jpg",
+        "alt": "Image2 pizza"
+       }, 
+       {
+        "src": "src/photos/img3.jpg",
+        "alt": "Image3 cheese nacho"
+       }, 
+       {
+        "src": "src/photos/img4.jpg",
+        "alt": "Image4 chicken wings"
+       }, 
+       {
+        "src": "src/photos/img5.jpg",
+        "alt": "Image5 brownie"
+       }
+    ]
+}
